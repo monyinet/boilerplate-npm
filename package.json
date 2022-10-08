@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Jose Juan Moñino",
+	"author": {
+		"name": "Jose Juan Moñino Coll",
+		"email": "holamundo@monyi.dev",
+		"url": "https://monyi.dev/"
+	},
 	"dependencies": {
 		"express": "^4.14.0"
 	},
