@@ -1,6 +1,7 @@
 {	
 	"name": "fcc-learn-npm-package-json",
 	"author": "Jose Juan Moñino Coll <holamundo@monyi.dev>",
+  "description": "Curso de Desarrollo Back End y APIs",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
